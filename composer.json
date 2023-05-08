@@ -1,0 +1,16 @@
+{
+    "name": "mahfuz/php-mvc-framework",
+    
+    "authors": [
+        {
+            "name": "mahfuz380",
+            "email": "almahfuz380@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
